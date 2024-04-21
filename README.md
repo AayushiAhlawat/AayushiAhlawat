@@ -8,8 +8,8 @@
 <br>
 <p>🚀 Expanding on this groundwork, I delve into the intricacies of the Google Cloud Platform, bolstered by a steadfast grasp of Agile methodologies. 💡 This technical acumen emboldens me to traverse varied projects and domains with assurance, fostering seamless collaboration and problem-solving. 🔍 Committed to staying ahead of the curve, I avidly embrace emerging technologies, ensuring my contributions shine at the forefront of the ever-evolving tech realm. 🌟</p>
 <br>
-📌 Technical Proficiency:
-
+<b>📌 Technical Proficiency:</b>
+<br>
  ✦ Languages: Java, Python, Machine Learning, JavaScript, Shell Scripting, C, C++
 
  ✦ Web Skills: AngularJS, Spring Boot, REST, HTML5, CSS, Bootstrap, jQuery, Microservices, Hibernate
@@ -25,8 +25,8 @@
  ✦ Network Monitoring Tools: SMARTS, Watch4Net 
 
 <br>
-📚 Certifications:
-
+<b>📚 Certifications:</b>
+<br>
 ✦ Salesforce Administrator Certified
 
 ✦ Global Agile Developer Certification
