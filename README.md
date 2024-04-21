@@ -68,5 +68,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>🤝 Open to connecting with fellow developers, tech enthusiasts, mentors, and industry professionals. Let's talk about coding, innovation, career growth, and tech-related collaborations!</b> :)</em>
 
+- 📨  Resume - [Aayushi Ahlawat](https://bit.ly/3UbOq5Q) 
+- ✉️  You can contact me at [ahlawataayushi@gmail.com](mailto:ahlawataayushi@gmail.com)
+- 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushi-ahlawat/)
+- 🌍  See my portfolio at [Aayushi Ahlawat]()
