@@ -1,8 +1,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Aayushi Ahlawat</h1>
-<h2 align="center">👩‍💻 Passionate Developer, Shaping Future Tech 🚀</h2>
-<p>👩‍💻 With a deep-rooted passion for software development, I bring 2 years of extensive experience to the forefront. Motivated by an insatiable curiosity to push the boundaries of technology, I am devoted to creating refined solutions that seamlessly blend innovation with practicality. Proficient in Java, Python, AngularJS, and Spring Boot, I find fulfillment in the art of coding, where every line represents a step toward shaping the digital future.</p>
+<h4 align="center">👩‍💻 Passionate Developer, Shaping Future Tech 🚀</h4>
+<p>💻 With a deep-rooted passion for software development, I bring 2 years of extensive experience to the forefront. 💡 Motivated by an insatiable curiosity to push the boundaries of technology, I am devoted to creating refined solutions that seamlessly blend innovation with practicality. 🛠️ Proficient in Java, Python, AngularJS, and Spring Boot, I find fulfillment in the art of coding, where every line represents a step toward shaping the digital future. ✨</p>
+<p>🚀 Expanding on this groundwork, I delve into the intricacies of the Google Cloud Platform, bolstered by a steadfast grasp of Agile methodologies. 💡 This technical acumen emboldens me to traverse varied projects and domains with assurance, fostering seamless collaboration and problem-solving. 🔍 Committed to staying ahead of the curve, I avidly embrace emerging technologies, ensuring my contributions shine at the forefront of the ever-evolving tech realm. 🌟</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
