@@ -1,11 +1,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Aayushi Ahlawat</h1>
-<h3 align="center">Enthusiastic Developer Pioneering Future Technologies 👩‍💻</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
-</p>
+<h2 align="center">👩‍💻 Passionate Developer, Shaping Future Tech 🚀</h2>
+<p>👩‍💻 With a deep-rooted passion for software development, I bring 2 years of extensive experience to the forefront. Motivated by an insatiable curiosity to push the boundaries of technology, I am devoted to creating refined solutions that seamlessly blend innovation with practicality. Proficient in Java, Python, AngularJS, and Spring Boot, I find fulfillment in the art of coding, where every line represents a step toward shaping the digital future.</p>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
