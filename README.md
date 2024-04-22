@@ -46,7 +46,9 @@
     <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB" /></a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>
     <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" /></a>
-    <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" width="36" height="36" alt="Salesforce" /></a>     
+    <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" width="36" height="36" alt="Salesforce" /></a>    
+    <a href="https://developer.android.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="36" height="36" alt="Android" /></a>
+ 
 </p>
 
 <br/>
