@@ -11,20 +11,20 @@
 <b>📌 Technical Proficiency:</b>
 
 
- ✦ Languages: Java, Python, Machine Learning, JavaScript, Shell Scripting, C, C++
- ✦ Web Skills: AngularJS, Spring Boot, REST, HTML5, CSS, Bootstrap, jQuery, Microservices, Hibernate
- ✦ Databases: MongoDB Cloud, MySQL, Firebase, Oracle Cloud
- ✦ Cloud: Google Cloud Platform (GCP), Docker
- ✦ Tools: Eclipse, Jenkins, GitHub, Postman, MS Suite, Apache Tomcat
- ✦ Methodologies: Agile & Scrum Project Management, Software Development Lifecycle (SDLC)
- ✦ Network Monitoring Tools: SMARTS, Watch4Net 
+ - ✦ Languages: Java, Python, Machine Learning, JavaScript, Shell Scripting, C, C++
+ - ✦ Web Skills: AngularJS, Spring Boot, REST, HTML5, CSS, Bootstrap, jQuery, Microservices, Hibernate
+ - ✦ Databases: MongoDB Cloud, MySQL, Firebase, Oracle Cloud
+ - ✦ Cloud: Google Cloud Platform (GCP), Docker
+ - ✦ Tools: Eclipse, Jenkins, GitHub, Postman, MS Suite, Apache Tomcat
+ - ✦ Methodologies: Agile & Scrum Project Management, Software Development Lifecycle (SDLC)
+ - ✦ Network Monitoring Tools: SMARTS, Watch4Net 
 
 <br>
 <b>📚 Certifications:</b> 
 
 
-✦ Salesforce Administrator Certified
-✦ Global Agile Developer Certification
+- ✦ Salesforce Administrator Certified
+- ✦ Global Agile Developer Certification
 
 <p></p>
 <br>
