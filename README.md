@@ -12,9 +12,9 @@
 <b>📌 Technical Proficiency:</b>
 
 
- -  Languages: Java, Python, Machine Learning, JavaScript, Shell Scripting, C, C++
- -  Web Skills: AngularJS, Spring Boot, REST, HTML5, CSS, Bootstrap, jQuery, Microservices, Hibernate
- -  Databases: MongoDB Cloud, MySQL, Firebase, Oracle Cloud
+ -  Languages: Java, Python, Node.js, Machine Learning, JavaScript, Shell Scripting, C, C++
+ -  Web Skills: React, AngularJS, Spring Boot, REST, HTML5, CSS, Bootstrap, jQuery, Microservices, Hibernate
+ -  Databases: PostgreSQL, Redis, MongoDB Cloud, MySQL, Firebase, Oracle Cloud
  -  Cloud: Google Cloud Platform (GCP), Docker
  -  Tools: Eclipse, Jenkins, GitHub, Postman, MS Suite, Apache Tomcat
  -  Methodologies: Agile & Scrum Project Management, Software Development Lifecycle (SDLC)
@@ -57,7 +57,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Open to connecting with fellow developers, tech enthusiasts, mentors, and industry professionals. Let's talk about coding, innovation, career growth, and tech-related collaborations!</b> :)</em>
 
-- 📨  Resume - [Aayushi Ahlawat](https://shorturl.at/gMc7y)
+- 📨  Resume - [Aayushi Ahlawat](https://shorturl.at/e7FK5)
 - ✉️  You can contact me at [ahlawataayushi@gmail.com](mailto:ahlawataayushi@gmail.com)
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushi-ahlawat/)
 - 🌍  See my portfolio at [Aayushi Ahlawat](https://portfolio-pink-five-16.vercel.app/)
