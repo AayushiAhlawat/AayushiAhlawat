@@ -5,25 +5,23 @@
 <br>
 <br>
 <br>
-<p>💻 With a deep-rooted passion for software development, I bring over 4 years of extensive experience to the forefront. 💡 Motivated by an insatiable curiosity to push the boundaries of technology, I am devoted to creating refined solutions that seamlessly blend innovation with practicality. 🛠️ Proficient in Java, Python, ReactJS, Spring Boot and AWS, I find fulfillment in the art of coding, where every line represents a step toward shaping the digital future. ✨</p>
+<p>💻 With a deep-rooted passion for software development, I bring over 3 years of extensive experience to the forefront. 💡 Motivated by an insatiable curiosity to push the boundaries of technology, I am devoted to creating refined solutions that seamlessly blend innovation with practicality. 🛠️ Proficient in Java, Python, ReactJS, Spring Boot, AWS and GenAI, I find fulfillment in the art of coding, where every line represents a step toward shaping the digital future. ✨</p>
 <br>
 <p>🚀 Expanding on this groundwork, I delve into the intricacies of the Google Cloud Platform, bolstered by a steadfast grasp of Agile methodologies. 💡 This technical acumen emboldens me to traverse varied projects and domains with assurance, fostering seamless collaboration and problem-solving. 🔍 Committed to staying ahead of the curve, I avidly embrace emerging technologies, ensuring my contributions shine at the forefront of the ever-evolving tech realm. 🌟</p>
 <br>
 <b>📌 Technical Proficiency:</b>
 
 
- -  Languages: Java, Python, Node.js, Machine Learning, JavaScript, Shell Scripting, C, C++
- -  Web Skills: React, AngularJS, Spring Boot, REST, HTML5, CSS, Bootstrap, jQuery, Microservices, Hibernate
- -  Databases: PostgreSQL, Redis, MongoDB Cloud, MySQL, Firebase, Oracle Cloud
- -  Cloud: Google Cloud Platform (GCP), Amazon Web Services (AWS)
- -  Tools: CI/CD (Jenkins, Git, Docker, Kubernetes, Selenium, JIRA), VS Code, IntelliJ, Postman, MS Suite
- -  Methodologies: Agile & Scrum Project Management, Software Development Lifecycle (SDLC)
- -  Network Monitoring Tools: SMARTS, Watch4Net 
+ -  Programming: Python, Java, Node.js, JavaScript, React, Typescript, HTML, CSS
+ -  Databases: PostgreSQL, Redis, MongoDB, MySQL, DynamoDB, Oracle Cloud
+ -  Libraries/Frameworks/Tools: Express, REST API, FAST API, GraphQL, Kafka, Kubernetes, Docker, Git, Jenkins, Postman, Selenium
+ -  Cloud Platform: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+ -  Development Practices: Full-stack development, CI/CD Automation, Design Patterns, Agile, SDLC, and Code Reviews
 
 <br>
 <b>📚 Certifications:</b> 
 
-
+-  AWS Certified Developer - Associate
 -  Salesforce Administrator Certified
 -  Global Agile Developer Certification
 
@@ -57,7 +55,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Open to connecting with fellow developers, tech enthusiasts, mentors, and industry professionals. Let's talk about coding, innovation, career growth, and tech-related collaborations!</b> :)</em>
 
-- 📨  Resume - [Aayushi Ahlawat](https://shorturl.at/mtgl6)
+- 📨  Resume - [Aayushi Ahlawat](https://shorturl.at/TZuTD)
 - ✉️  You can contact me at [ahlawataayushi@gmail.com](mailto:ahlawataayushi@gmail.com)
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushi-ahlawat/)
 - 🌍  See my portfolio at [Aayushi Ahlawat](https://portfolio-pink-five-16.vercel.app/)
