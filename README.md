@@ -57,7 +57,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Open to connecting with fellow developers, tech enthusiasts, mentors, and industry professionals. Let's talk about coding, innovation, career growth, and tech-related collaborations!</b> :)</em>
 
-- 📨  Resume - [Aayushi Ahlawat](https://drive.google.com/file/d/1evem29BZBTvL3QAWQ3brFHN5lifExhpA/view?usp=drive_link)
+- 📨  Resume - [Aayushi Ahlawat](https://drive.google.com/file/d/1qs2YPnIXSmzST7MnhObGvZW6ZQGDETul/view?usp=drive_link)
 - ✉️  You can contact me at [ahlawataayushi@gmail.com](mailto:ahlawataayushi@gmail.com)
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/aayushi-ahlawat/)
 - 🌍  See my portfolio at [Aayushi Ahlawat](https://portfolio-pink-five-16.vercel.app/)
